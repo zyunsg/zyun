@@ -1,7 +1,5 @@
 # main links
 main:
-  #- title: "Languages"
-    #url: https://zyunsg.github.io/zyun/docs/01_languages.md/
   - title: "Machine Learning"
     url: https://zyunsg.github.io/zyun/docs/02_machine_learning.md/
   - title: "Blog"
