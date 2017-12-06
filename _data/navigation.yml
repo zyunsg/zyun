@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
+  - title: "Languages"
+    url: https://zyunsg.github.io/zyun/docs/01_languages.md/
+  - title: "Machine Learning"
+    url: https://zyunsg.github.io/zyun/docs/02_machine_learning.md/
+  - title: "Blog"
     url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
