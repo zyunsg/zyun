@@ -7,7 +7,7 @@ main:
   - title: "Blog"
     url: /year-archive/
   - title: "About"
-    url: https://zyunsg.github.io/zyun/_pages/aboutg.md/
+    url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
