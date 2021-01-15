@@ -2,8 +2,6 @@
 main:
   - title: "Data Science"
     url: https://zyunsg.github.io/zyun/docs/02_machine_learning.md/
-  - title: "Fitness&Health"
-    url: https://zyunsg.github.io/zyun/docs/02_machine_learning.md/
   - title: "Blog"
     url: /year-archive/
   # - title: "Sample Collections"
