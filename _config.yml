@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Yun's Blog"
 title_separator          : "-"
 name                     : "Yun Zhang"
-description              : "Welcome to my blog."
+description              : "Data|Finance|Fitness"
 url                      : "https://zyunsg.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/zyun" # the subpath of your site, e.g. "/blog"
 repository               : "zyunsg/zyun"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Yun Zhang"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to my blog."
+  bio              : "Data|Finance|Fitness"
   location         : "Singapore"
   email            : "zyunsg@gmail.com"
   uri              : 
